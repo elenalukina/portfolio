@@ -19,7 +19,6 @@
 
 ![Sitechco](https://img.shields.io/badge/Sitechco-090909?style=social)
 ![qase.io](https://img.shields.io/badge/qase.io-090909?style=social)
-![SoapUI](https://img.shields.io/badge/SoapUI-090909?style=social)
 ![Charles](https://img.shields.io/badge/Charles-090909?style=social&logo=charlesproxy)
 
 ## Проекты
