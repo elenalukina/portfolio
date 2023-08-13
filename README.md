@@ -7,8 +7,20 @@
 <br>
 
 ## Навыки и технологии
-``Jira``,``qase.io``,``Sitechco``,``SQL``,`` Postman``,``Fiddler``,``Swagger``,``Trello``, <br>
-``SoapUI``,``Android Studio``,``Charles``,``Git``,``Chrome DevTools``,``Miro``
+![Jira](https://img.shields.io/badge/Jira-090909?style=social&logo=Jira)
+![Confluence](https://img.shields.io/badge/Confluence-090909?style=social&logo=Confluence)
+![Miro](https://img.shields.io/badge/Miro-090909?style=social&logo=Miro)
+![Postman](https://img.shields.io/badge/Postman-090909?style=social&logo=Postman)
+![Swagger](https://img.shields.io/badge/Swagger-090909?style=social&logo=Swagger)
+![DevTools](https://img.shields.io/badge/DevTools-090909?style=social&logo=googlechrome)
+![Android Studio](https://img.shields.io/badge/AndroidStudio-090909?style=social&logo=AndroidStudio)
+![Trello](https://img.shields.io/badge/Trello-090909?style=social&logo=Trello)
+![mySQL](https://img.shields.io/badge/mySQL-090909?style=social&logo=mySQL)
+
+![Sitechco](https://img.shields.io/badge/Sitechco-090909?style=social)
+![qase.io](https://img.shields.io/badge/qase.io-090909?style=social)
+![SoapUI](https://img.shields.io/badge/SoapUI-090909?style=social)
+![Charles](https://img.shields.io/badge/Charles-090909?style=social&logo=charlesproxy)
 
 ## Проекты
 <strong>🔖Проект 1</strong>: Расписание личного кабинета для учителей Skyeng
