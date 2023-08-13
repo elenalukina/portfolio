@@ -38,11 +38,10 @@
 </ul>
 
 Какие инструменты были применены:
-<ul>
-  <li>Miro для создания декомпозиции новой функциональности</li>
-  <li>Qase, Sitechko для написания тестовой документации</li>
-  <li>Jira для фиксирования баг-репортов</li>
-</ul>
+![Miro](https://img.shields.io/badge/Miro-090909?style=social&logo=Miro) 
+![qase.io](https://img.shields.io/badge/qase.io-090909?style=social) 
+![Sitechco](https://img.shields.io/badge/Sitechco-090909?style=social) 
+![Jira](https://img.shields.io/badge/Jira-090909?style=social&logo=Jira) 
 
 <strong>🔖Проект 2</strong>: Расписание личного кабинета для учителей Skyeng с API
 
@@ -56,13 +55,12 @@
 </ul>
 
 Какие инструменты были применены:
-<ul>
-  <li>Swagger для чтения документации API на проекте</li>
-  <li>Devtools для воспроизведения запросов в рабочей среде</li>
-  <li>Qase, Sitechko для оформления функциональных проверок</li>
-  <li>Postman для создания коллекции и автоматизации прогона</li>
-   <li>Jira для фиксирования баг-репортов</li>
-</ul>
+![Swagger](https://img.shields.io/badge/Swagger-090909?style=social&logo=Swagger)
+![DevTools](https://img.shields.io/badge/DevTools-090909?style=social&logo=googlechrome)
+![Postman](https://img.shields.io/badge/Postman-090909?style=social&logo=Postman)
+![Jira](https://img.shields.io/badge/Jira-090909?style=social&logo=Jira)
+![qase.io](https://img.shields.io/badge/qase.io-090909?style=social) 
+![Sitechco](https://img.shields.io/badge/Sitechco-090909?style=social) 
 
 📒Процесс и результаты тестирования оформлены в едином **[документе](https://docs.google.com/document/d/13gRXVW8D2M8PZVIeu4N9VpobIGVs756Z6NFCgm_V9Qc/edit?usp=sharing)**.
 
@@ -80,11 +78,10 @@
 </ul>
 
 Какие инструменты были применены:
-<ul>
-  <li>Sitechko для написания тестовой документации</li>
-  <li>Postman для создания коллекции и автоматизации прогона</li>
-  <li>Jira для фиксирования баг-репортов</li>
-</ul>
+![DevTools](https://img.shields.io/badge/DevTools-090909?style=social&logo=googlechrome)
+![Postman](https://img.shields.io/badge/Postman-090909?style=social&logo=Postman)
+![Jira](https://img.shields.io/badge/Jira-090909?style=social&logo=Jira)
+![Sitechco](https://img.shields.io/badge/Sitechco-090909?style=social) 
 
 📒Более подробное описание проекта оформлено в **[Notion](https://www.notion.so/d6e25aadd15141e098621e4d7ab3a204?pvs=4)**.
 
