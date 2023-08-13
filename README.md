@@ -75,4 +75,5 @@
 Более подробное описание проекта оформлено в **[Notion](https://www.notion.so/d6e25aadd15141e098621e4d7ab3a204?pvs=4)**.
 
 ## Связь со мной
-
+[<img src="https://raw.githubusercontent.com/elenalukina/portfolio/main/socials/linkedin.png" height="40em" align="center" alt="Follow Elena on LinkedIn" title="Follow Elena on LinkedIn"/>](ссылка)
+[<img src="https://raw.githubusercontent.com/elenalukina/portfolio/main/socials/telegram.png" height="40em" align="center" alt="Contact Elena by Telegram" title="Contact Elena by Telegram"/>](https://t.me/alenalukinaa)
