@@ -83,7 +83,7 @@
 ![Jira](https://img.shields.io/badge/Jira-090909?style=social&logo=Jira)
 ![Sitechco](https://img.shields.io/badge/Sitechco-090909?style=social) 
 
-📒Более подробное описание проекта оформлено в **[Notion](https://www.notion.so/d6e25aadd15141e098621e4d7ab3a204?pvs=4)**.
+📒Более подробное описание проекта оформлено в **[Notion](https://hail-fighter-fdf.notion.site/d6e25aadd15141e098621e4d7ab3a204?pvs=4)**.
 
 ## Связь со мной
 [<img src="https://raw.githubusercontent.com/elenalukina/portfolio/main/socials/linkedin.png" height="40em" align="center" alt="Follow Elena on LinkedIn" title="Follow Elena on LinkedIn"/>](http://www.linkedin.com/in/elena-lukina-122008130)
